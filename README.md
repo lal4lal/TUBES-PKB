@@ -1,5 +1,4 @@
 # TUBES-PKB
-Tugas Besar Mata Kuliah Pengenalan Kecerdasan Buatan
 Deskripsi
 Pengantar Kecerdasan Buatan | Assessment CLO-3 Tugas Pemrograman: Learning
 Semester Genap 2023/2024
